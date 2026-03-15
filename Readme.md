@@ -104,14 +104,14 @@ Tuning was performed using **GridSearchCV** wrapped in a **scikit-learn Pipeline
 
 ## 📊 Model Performance
 
-Results from the tuned Random Forest classifier:
+Results from the tuned Random Forest classifier and Bagging methods with RF:
 
-| Metric | Score |
-|---|---|
-| **Accuracy** | 0.7551 |
-| **Precision** | 0.7335 |
-| **Recall** | 0.7551 |
-| **F1 Score** | 0.7375 |
+| **Metric** | **RF Tuning Score** | **Bagging Scores** | **Delta (Δ)**|
+| :--- | :---: | :---: | :---: |
+| **Accuracy** | 0.7551 | 0.7428 | +1.23% |
+| **Precision** | 0.7335 | 0.728 | +0.55% |
+| **Recall** | 0.7551 | 0.742 | +1.31% |
+| **F1 Score** | 0.7375 | 0.712 | +2.55% |
 
 ---
 
