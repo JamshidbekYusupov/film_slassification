@@ -1,0 +1,293 @@
+2026-03-10 21:33:26,450-INFO-Logging has started
+2026-03-10 21:34:29,869-INFO-Logging has started
+2026-03-10 21:39:03,810-INFO-Logging has started
+2026-03-10 21:39:03,820-INFO-Basic processing is done to Data
+2026-03-10 21:39:03,827-INFO-Feature adding is done successfully
+2026-03-10 21:39:03,837-INFO-Data is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 21:47:04,763-INFO-Logging has started
+2026-03-14 21:49:29,013-INFO-Logging has started
+2026-03-14 21:50:03,669-INFO-Logging has started
+2026-03-14 21:50:12,310-INFO-Logging has started
+2026-03-14 21:50:45,289-INFO-Logging has started
+2026-03-14 21:50:52,216-INFO-Logging has started
+2026-03-14 21:50:52,217-ERROR-Error while basic preprocessing
+2026-03-14 21:51:48,642-INFO-Logging has started
+2026-03-14 21:53:32,951-INFO-Logging has started
+2026-03-14 21:54:12,223-INFO-Logging has started
+2026-03-14 21:54:12,228-ERROR-Error while basic preprocessing
+2026-03-14 21:57:19,209-INFO-Logging has started
+2026-03-14 21:57:27,371-INFO-Logging has started
+2026-03-14 21:59:21,203-INFO-Logging has started
+2026-03-14 21:59:26,960-INFO-Logging has started
+2026-03-14 22:02:11,671-INFO-Logging has started
+2026-03-14 22:02:22,644-INFO-Logging has started
+2026-03-14 22:02:22,649-ERROR-Error while basic preprocessing
+2026-03-14 22:02:47,857-INFO-Logging has started
+2026-03-14 22:02:54,016-INFO-Logging has started
+2026-03-14 22:02:54,017-ERROR-Error while basic preprocessing
+2026-03-14 22:03:59,256-INFO-Logging has started
+2026-03-14 22:04:19,186-INFO-Engineering has started
+2026-03-14 22:04:35,367-INFO-Engineering has started
+2026-03-14 22:04:35,369-ERROR-Error while basic preprocessing
+2026-03-14 22:28:28,383-INFO-Engineering has started
+2026-03-14 22:28:34,292-INFO-Engineering has started
+2026-03-14 22:28:34,294-ERROR-Error while basic preprocessing
+2026-03-14 22:29:33,603-INFO-Engineering has started
+2026-03-14 22:29:39,434-INFO-Engineering has started
+2026-03-14 22:29:39,535-INFO-Basic processing for Train set is DONE
+2026-03-14 22:29:39,539-INFO-Basic processing for Test set is DONE
+2026-03-14 22:29:39,544-INFO-Feature adding to X_train is DONE
+2026-03-14 22:29:39,547-INFO-Feature adding to X_test is DONE
+2026-03-14 22:29:39,548-INFO-Feature adding is done successfully
+2026-03-14 22:29:39,557-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:29:39,560-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:29:39,560-ERROR-Error while saving data at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:15,179-INFO-Engineering has started
+2026-03-14 22:33:21,624-INFO-Engineering has started
+2026-03-14 22:33:21,717-INFO-Basic processing for Train set is DONE
+2026-03-14 22:33:21,721-INFO-Basic processing for Test set is DONE
+2026-03-14 22:33:21,724-INFO-Feature adding to X_train is DONE
+2026-03-14 22:33:21,727-INFO-Feature adding to X_test is DONE
+2026-03-14 22:33:21,727-INFO-Feature adding is done successfully
+2026-03-14 22:33:21,733-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:21,735-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:21,735-ERROR-Error while saving data at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:42,463-INFO-Engineering has started
+2026-03-14 22:33:48,653-INFO-Engineering has started
+2026-03-14 22:33:48,752-INFO-Basic processing for Train set is DONE
+2026-03-14 22:33:48,756-INFO-Basic processing for Test set is DONE
+2026-03-14 22:33:48,760-INFO-Feature adding to X_train is DONE
+2026-03-14 22:33:48,763-INFO-Feature adding to X_test is DONE
+2026-03-14 22:33:48,763-INFO-Feature adding is done successfully
+2026-03-14 22:33:48,770-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:48,773-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:33:48,773-ERROR-Error while saving data at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:34:45,839-INFO-Engineering has started
+2026-03-14 22:34:53,370-INFO-Engineering has started
+2026-03-14 22:34:53,473-INFO-Basic processing for Train set is DONE
+2026-03-14 22:34:53,477-INFO-Basic processing for Test set is DONE
+2026-03-14 22:34:53,481-INFO-Feature adding to X_train is DONE
+2026-03-14 22:34:53,483-INFO-Feature adding to X_test is DONE
+2026-03-14 22:34:53,484-INFO-Feature adding is done successfully
+2026-03-14 22:34:53,491-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:34:53,495-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:34:53,497-INFO-y_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:34:53,499-INFO-y_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-14 22:44:20,530-INFO-Engineering has started
+2026-03-14 22:44:33,728-INFO-Engineering has started
+2026-03-14 22:44:33,839-INFO-Basic processing for Train set is DONE
+2026-03-14 22:44:33,842-INFO-Basic processing for Test set is DONE
+2026-03-14 22:44:33,849-INFO-Feature adding to X_train is DONE
+2026-03-14 22:44:33,853-INFO-Feature adding to X_test is DONE
+2026-03-14 22:44:33,854-INFO-Feature adding is done successfully
+2026-03-14 22:44:33,862-ERROR-Error while Over Sampling. Error: Input X contains NaN.
+SMOTE does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2026-03-15 03:39:04,297-INFO-Engineering has started
+2026-03-15 03:39:15,449-INFO-Engineering has started
+2026-03-15 03:39:49,867-INFO-Engineering has started
+2026-03-15 03:39:55,485-INFO-Engineering has started
+2026-03-15 03:39:55,514-INFO-Basic processing for Train set is DONE
+2026-03-15 03:39:55,540-INFO-Basic processing for Test set is DONE
+2026-03-15 03:39:55,547-INFO-Feature adding to X_train is DONE
+2026-03-15 03:39:55,549-INFO-Feature adding to X_test is DONE
+2026-03-15 03:39:55,549-INFO-Feature adding is done successfully
+2026-03-15 03:39:55,561-ERROR-Error while Over Sampling. Error: Input X contains NaN.
+SMOTE does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2026-03-15 03:50:33,016-INFO-Engineering has started
+2026-03-15 03:50:40,881-INFO-Engineering has started
+2026-03-15 03:50:40,892-INFO-Basic processing for Train set is DONE
+2026-03-15 03:50:40,913-INFO-Basic processing for Test set is DONE
+2026-03-15 03:50:40,918-INFO-Feature adding to X_train is DONE
+2026-03-15 03:50:40,920-INFO-Feature adding to X_test is DONE
+2026-03-15 03:50:40,920-INFO-Feature adding is done successfully
+2026-03-15 03:50:40,938-ERROR-Error while Over Sampling. Error: Cannot use most_frequent strategy with non-numeric data:
+could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:17:37,375-INFO-Engineering has started
+2026-03-15 04:17:37,387-INFO-Basic processing for Train set is DONE
+2026-03-15 04:17:37,413-INFO-Basic processing for Test set is DONE
+2026-03-15 04:17:37,418-INFO-Feature adding to X_train is DONE
+2026-03-15 04:17:37,420-INFO-Feature adding to X_test is DONE
+2026-03-15 04:17:37,421-INFO-Feature adding is done successfully
+2026-03-15 04:17:37,426-ERROR-Error while Over Sampling. Error: Cannot use most_frequent strategy with non-numeric data:
+could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:19:40,730-INFO-Engineering has started
+2026-03-15 04:19:47,979-INFO-Engineering has started
+2026-03-15 04:19:48,004-INFO-Basic processing for Train set is DONE
+2026-03-15 04:19:48,027-INFO-Basic processing for Test set is DONE
+2026-03-15 04:19:48,033-INFO-Feature adding to X_train is DONE
+2026-03-15 04:19:48,035-INFO-Feature adding to X_test is DONE
+2026-03-15 04:19:48,035-INFO-Feature adding is done successfully
+2026-03-15 04:19:48,039-ERROR-Error while Over Sampling. Error: Cannot use most_frequent strategy with non-numeric data:
+could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:22:16,187-INFO-Engineering has started
+2026-03-15 04:22:24,051-INFO-Engineering has started
+2026-03-15 04:22:24,061-INFO-Basic processing for Train set is DONE
+2026-03-15 04:22:24,083-INFO-Basic processing for Test set is DONE
+2026-03-15 04:22:24,087-INFO-Feature adding to X_train is DONE
+2026-03-15 04:22:24,089-INFO-Feature adding to X_test is DONE
+2026-03-15 04:22:24,090-INFO-Feature adding is done successfully
+2026-03-15 04:22:24,101-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:24:11,665-INFO-Engineering has started
+2026-03-15 04:24:16,945-INFO-Engineering has started
+2026-03-15 04:24:16,955-INFO-Basic processing for Train set is DONE
+2026-03-15 04:24:16,977-INFO-Basic processing for Test set is DONE
+2026-03-15 04:24:16,982-INFO-Feature adding to X_train is DONE
+2026-03-15 04:24:16,985-INFO-Feature adding to X_test is DONE
+2026-03-15 04:24:16,985-INFO-Feature adding is done successfully
+2026-03-15 04:24:16,985-ERROR-Error while Over Sampling. Error: SimpleImputer.__init__() got an unexpected keyword argument 'dtype'
+2026-03-15 04:25:03,817-INFO-Engineering has started
+2026-03-15 04:25:09,569-INFO-Engineering has started
+2026-03-15 04:25:09,580-INFO-Basic processing for Train set is DONE
+2026-03-15 04:25:09,604-INFO-Basic processing for Test set is DONE
+2026-03-15 04:25:09,608-INFO-Feature adding to X_train is DONE
+2026-03-15 04:25:09,612-INFO-Feature adding to X_test is DONE
+2026-03-15 04:25:09,613-INFO-Feature adding is done successfully
+2026-03-15 04:25:09,624-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:29:37,333-INFO-Engineering has started
+2026-03-15 04:29:45,419-INFO-Engineering has started
+2026-03-15 04:29:45,431-INFO-Basic processing for Train set is DONE
+2026-03-15 04:29:45,454-INFO-Basic processing for Test set is DONE
+2026-03-15 04:29:45,460-INFO-Feature adding to X_train is DONE
+2026-03-15 04:29:45,462-INFO-Feature adding to X_test is DONE
+2026-03-15 04:29:45,463-INFO-Feature adding is done successfully
+2026-03-15 04:29:45,465-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:31:55,234-INFO-Engineering has started
+2026-03-15 04:31:55,245-INFO-Basic processing for Train set is DONE
+2026-03-15 04:31:55,272-INFO-Basic processing for Test set is DONE
+2026-03-15 04:31:55,275-INFO-Feature adding to X_train is DONE
+2026-03-15 04:31:55,279-INFO-Feature adding to X_test is DONE
+2026-03-15 04:31:55,279-INFO-Feature adding is done successfully
+2026-03-15 04:31:55,280-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:32:10,645-INFO-Engineering has started
+2026-03-15 04:32:10,655-INFO-Basic processing for Train set is DONE
+2026-03-15 04:32:10,682-INFO-Basic processing for Test set is DONE
+2026-03-15 04:32:10,686-INFO-Feature adding to X_train is DONE
+2026-03-15 04:32:10,688-INFO-Feature adding to X_test is DONE
+2026-03-15 04:32:10,688-INFO-Feature adding is done successfully
+2026-03-15 04:32:10,690-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Heart String Marionette'
+2026-03-15 04:32:19,810-INFO-Engineering has started
+2026-03-15 04:32:36,100-INFO-Engineering has started
+2026-03-15 04:32:36,111-INFO-Basic processing for Train set is DONE
+2026-03-15 04:32:36,113-INFO-Basic processing for Test set is DONE
+2026-03-15 04:32:36,116-INFO-Feature adding to X_train is DONE
+2026-03-15 04:32:36,118-INFO-Feature adding to X_test is DONE
+2026-03-15 04:32:36,118-INFO-Feature adding is done successfully
+2026-03-15 04:32:36,119-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Hey Krishna \u0915\u0943\u0937\u094d\u0923\u093e \u0914\u0930 \u0915\u0902\u0938 (Krishna Aur Kans)'
+2026-03-15 04:33:08,730-INFO-Engineering has started
+2026-03-15 04:33:08,826-INFO-Basic processing for Train set is DONE
+2026-03-15 04:33:08,830-INFO-Basic processing for Test set is DONE
+2026-03-15 04:33:08,833-INFO-Feature adding to X_train is DONE
+2026-03-15 04:33:08,835-INFO-Feature adding to X_test is DONE
+2026-03-15 04:33:08,836-INFO-Feature adding is done successfully
+2026-03-15 04:33:08,837-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Arpeggio of Blue Steel'
+2026-03-15 04:33:43,769-INFO-Engineering has started
+2026-03-15 04:33:43,864-INFO-Basic processing for Train set is DONE
+2026-03-15 04:33:43,868-INFO-Basic processing for Test set is DONE
+2026-03-15 04:33:43,871-INFO-Feature adding to X_train is DONE
+2026-03-15 04:33:43,874-INFO-Feature adding to X_test is DONE
+2026-03-15 04:33:43,874-INFO-Feature adding is done successfully
+2026-03-15 04:33:43,875-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Attack on Titan Part 2: Wings of Freedom'
+2026-03-15 04:34:12,803-INFO-Engineering has started
+2026-03-15 04:34:12,813-INFO-Basic processing for Train set is DONE
+2026-03-15 04:34:12,840-INFO-Basic processing for Test set is DONE
+2026-03-15 04:34:12,844-INFO-Feature adding to X_train is DONE
+2026-03-15 04:34:12,846-INFO-Feature adding to X_test is DONE
+2026-03-15 04:34:12,847-INFO-Feature adding is done successfully
+2026-03-15 04:34:12,848-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Justice League: Warworld'
+2026-03-15 04:34:42,357-INFO-Engineering has started
+2026-03-15 04:34:42,460-INFO-Basic processing for Train set is DONE
+2026-03-15 04:34:42,489-INFO-Basic processing for Test set is DONE
+2026-03-15 04:34:42,493-INFO-Feature adding to X_train is DONE
+2026-03-15 04:34:42,496-INFO-Feature adding to X_test is DONE
+2026-03-15 04:34:42,496-INFO-Feature adding is done successfully
+2026-03-15 04:34:42,497-ERROR-Error while Over Sampling. Error: could not convert string to float: 'Aura Star: Attack of the Temple \u5965ÕÃàø£º\u8fdb\u51fb\u5723îü'
+2026-03-15 04:40:53,673-INFO-Engineering has started
+2026-03-15 04:41:01,124-INFO-Engineering has started
+2026-03-15 04:41:50,229-INFO-Engineering has started
+2026-03-15 04:41:57,158-INFO-Engineering has started
+2026-03-15 04:41:57,247-INFO-Basic processing for Train set is DONE
+2026-03-15 04:41:57,271-INFO-Basic processing for Test set is DONE
+2026-03-15 04:41:57,275-INFO-Feature adding to X_train is DONE
+2026-03-15 04:41:57,277-INFO-Feature adding to X_test is DONE
+2026-03-15 04:41:57,277-INFO-Feature adding is done successfully
+2026-03-15 04:41:57,293-ERROR-Error while Over Sampling. Error: 'Categorical' with dtype category does not support operation 'mean'
+2026-03-15 04:44:12,536-INFO-Engineering has started
+2026-03-15 04:44:19,926-INFO-Engineering has started
+2026-03-15 04:44:20,021-INFO-Basic processing for Train set is DONE
+2026-03-15 04:44:20,043-INFO-Basic processing for Test set is DONE
+2026-03-15 04:44:20,047-INFO-Feature adding to X_train is DONE
+2026-03-15 04:44:20,049-INFO-Feature adding to X_test is DONE
+2026-03-15 04:44:20,049-INFO-Feature adding is done successfully
+2026-03-15 04:44:20,052-ERROR-Error while Over Sampling. Error: 'Categorical' with dtype category does not support operation 'mean'
+2026-03-15 04:46:40,910-INFO-Engineering has started
+2026-03-15 04:46:47,152-INFO-Engineering has started
+2026-03-15 04:46:47,237-INFO-Basic processing for Train set is DONE
+2026-03-15 04:46:47,271-INFO-Basic processing for Test set is DONE
+2026-03-15 04:46:47,275-INFO-Feature adding to X_train is DONE
+2026-03-15 04:46:47,277-INFO-Feature adding to X_test is DONE
+2026-03-15 04:46:47,277-INFO-Feature adding is done successfully
+2026-03-15 04:46:47,284-ERROR-Error while Over Sampling. Error: Input X contains NaN.
+SMOTE does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2026-03-15 12:18:07,546-INFO-Engineering has started
+2026-03-15 12:18:13,431-INFO-Engineering has started
+2026-03-15 12:18:13,532-INFO-Basic processing for Train set is DONE
+2026-03-15 12:18:13,557-INFO-Basic processing for Test set is DONE
+2026-03-15 12:18:13,562-INFO-Feature adding to X_train is DONE
+2026-03-15 12:18:13,565-INFO-Feature adding to X_test is DONE
+2026-03-15 12:18:13,566-INFO-Feature adding is done successfully
+2026-03-15 12:18:13,570-ERROR-Error while Over Sampling. Error: 'Categorical' with dtype category does not support operation 'mean'
+2026-03-15 12:18:56,152-INFO-Engineering has started
+2026-03-15 12:18:56,244-INFO-Basic processing for Train set is DONE
+2026-03-15 12:18:56,270-INFO-Basic processing for Test set is DONE
+2026-03-15 12:18:56,273-INFO-Feature adding to X_train is DONE
+2026-03-15 12:18:56,275-INFO-Feature adding to X_test is DONE
+2026-03-15 12:18:56,276-INFO-Feature adding is done successfully
+2026-03-15 12:18:56,295-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:18:56,298-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:18:56,300-INFO-y_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:18:56,300-INFO-y_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:38:33,232-INFO-Engineering has started
+2026-03-15 12:38:43,205-INFO-Engineering has started
+2026-03-15 12:38:43,302-INFO-Basic processing for Train set is DONE
+2026-03-15 12:38:43,326-INFO-Basic processing for Test set is DONE
+2026-03-15 12:38:43,329-INFO-Feature adding to X_train is DONE
+2026-03-15 12:38:43,332-INFO-Feature adding to X_test is DONE
+2026-03-15 12:38:43,332-INFO-Feature adding is done successfully
+2026-03-15 12:38:43,338-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:38:43,340-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:38:43,342-INFO-y_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:38:43,342-INFO-y_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:40:53,759-INFO-Engineering has started
+2026-03-15 12:40:53,858-INFO-Basic processing for Train set is DONE
+2026-03-15 12:40:53,881-INFO-Basic processing for Test set is DONE
+2026-03-15 12:40:53,886-INFO-Feature adding to X_train is DONE
+2026-03-15 12:40:53,888-INFO-Feature adding to X_test is DONE
+2026-03-15 12:40:53,889-INFO-Feature adding is done successfully
+2026-03-15 12:40:53,895-ERROR-Error while Over Sampling. Error: Input X contains NaN.
+SMOTE does not accept missing values encoded as NaN natively. For supervised learning, you might want to consider sklearn.ensemble.HistGradientBoostingClassifier and Regressor which accept missing values encoded as NaNs natively. Alternatively, it is possible to preprocess the data, for instance by using an imputer transformer in a pipeline or drop samples with missing values. See https://scikit-learn.org/stable/modules/impute.html You can find a list of all estimators that handle NaN values at the following page: https://scikit-learn.org/stable/modules/impute.html#estimators-that-handle-nan-values
+2026-03-15 12:41:36,272-INFO-Engineering has started
+2026-03-15 12:41:42,078-INFO-Engineering has started
+2026-03-15 12:41:42,169-INFO-Basic processing for Train set is DONE
+2026-03-15 12:41:42,194-INFO-Basic processing for Test set is DONE
+2026-03-15 12:41:42,206-INFO-Feature adding to X_train is DONE
+2026-03-15 12:41:42,208-INFO-Feature adding to X_test is DONE
+2026-03-15 12:41:42,208-INFO-Feature adding is done successfully
+2026-03-15 12:41:42,210-ERROR-Error while Over Sampling. Error: 'Categorical' with dtype category does not support operation 'mean'
+2026-03-15 12:50:39,797-INFO-Engineering has started
+2026-03-15 12:50:47,913-INFO-Engineering has started
+2026-03-15 12:50:48,090-INFO-Basic processing for Train set is DONE
+2026-03-15 12:50:48,133-INFO-Basic processing for Test set is DONE
+2026-03-15 12:50:48,140-INFO-Feature adding to X_train is DONE
+2026-03-15 12:50:48,144-INFO-Feature adding to X_test is DONE
+2026-03-15 12:50:48,145-INFO-Feature adding is done successfully
+2026-03-15 12:50:48,149-ERROR-Error while Over Sampling. Error: 'Categorical' with dtype category does not support operation 'mean'
+2026-03-15 12:51:00,929-INFO-Engineering has started
+2026-03-15 12:51:01,023-INFO-Basic processing for Train set is DONE
+2026-03-15 12:51:01,049-INFO-Basic processing for Test set is DONE
+2026-03-15 12:51:01,053-INFO-Feature adding to X_train is DONE
+2026-03-15 12:51:01,056-INFO-Feature adding to X_test is DONE
+2026-03-15 12:51:01,056-INFO-Feature adding is done successfully
+2026-03-15 12:51:01,061-INFO-X_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:51:01,063-INFO-X_test is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:51:01,064-INFO-y_train is saved at C:\animation_technique_classification\Data\basic_eng
+2026-03-15 12:51:01,064-INFO-y_test is saved at C:\animation_technique_classification\Data\basic_eng

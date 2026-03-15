@@ -1,0 +1,151 @@
+2026-03-15 15:07:29,023-INFO-Overfitting process has started
+2026-03-15 15:07:43,657-INFO-Overfitting process has started
+2026-03-15 15:07:43,665-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:08:08,728-INFO-Overfitting process has started
+2026-03-15 15:08:11,919-INFO-Overfitting process has started
+2026-03-15 15:08:11,928-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:08:12,112-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:08:12,138-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:08:12,149-INFO-Prediction is done for Random_Forest
+2026-03-15 15:08:12,162-INFO-Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:08:12,163-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:08:12,175-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:08:12,178-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:08:12,183-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:08:12,195-INFO-Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:10:05,215-INFO-Overfitting process has started
+2026-03-15 15:10:05,224-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:10:05,434-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:10:05,465-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:10:05,481-INFO-Prediction is done for Random_Forest
+2026-03-15 15:10:05,495-INFO-Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:10:05,496-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:10:05,509-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:10:05,511-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:10:05,516-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:10:05,528-INFO-Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:12:28,095-INFO-Underfitting process has started
+2026-03-15 15:12:33,431-INFO-Overfitting process has started
+2026-03-15 15:12:33,439-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:12:33,545-INFO-RF_Under is trained successfully(Ovefit Model)
+2026-03-15 15:12:33,567-INFO-RF_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\RF_Under.joblib
+2026-03-15 15:12:33,580-INFO-Prediction is done for RF_Under
+2026-03-15 15:12:33,595-INFO-Metrics for RF_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:12:33,595-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:12:33,608-INFO-DT_Under is trained successfully(Ovefit Model)
+2026-03-15 15:12:33,611-INFO-DT_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\DT_Under.joblib
+2026-03-15 15:12:33,619-INFO-Prediction is done for DT_Under
+2026-03-15 15:12:33,635-INFO-Metrics for DT_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:20:57,534-INFO-Overfitting process has started
+2026-03-15 15:21:06,793-INFO-Overfitting process has started
+2026-03-15 15:21:06,803-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:21:06,994-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:21:07,020-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:21:07,051-INFO-Prediction is done for Random_Forest
+2026-03-15 15:21:07,063-INFO-Metrics are calculated for Test set
+2026-03-15 15:21:07,075-INFO-Metrics are calculated for Train set
+2026-03-15 15:21:07,077-INFO-Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:21:07,078-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:21:07,093-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:21:07,096-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:21:07,108-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:21:07,120-INFO-Metrics are calculated for Test set
+2026-03-15 15:21:07,131-INFO-Metrics are calculated for Train set
+2026-03-15 15:21:07,133-INFO-Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:24:23,020-INFO-Overfitting process has started
+2026-03-15 15:24:37,331-INFO-Overfitting process has started
+2026-03-15 15:24:37,338-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:24:37,523-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:24:37,549-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:24:37,580-INFO-Prediction is done for Random_Forest
+2026-03-15 15:24:37,592-INFO-Metrics are calculated for Test set
+2026-03-15 15:24:37,603-INFO-Metrics are calculated for Train set
+2026-03-15 15:24:37,603-ERROR-Error while saving metrics for Random_Forest. Error: 'overfitting_pipeline' object has no attribute 'metrics'
+2026-03-15 15:25:38,658-INFO-Overfitting process has started
+2026-03-15 15:25:44,729-INFO-Overfitting process has started
+2026-03-15 15:25:44,739-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:25:44,929-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:25:44,955-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:25:44,986-INFO-Prediction is done for Random_Forest
+2026-03-15 15:25:44,998-INFO-Metrics are calculated for Test set
+2026-03-15 15:25:45,009-INFO-Metrics are calculated for Train set
+2026-03-15 15:25:45,011-INFO-Test Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:25:45,012-INFO-Train Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:25:45,013-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:25:45,025-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:25:45,028-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:25:45,039-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:25:45,050-INFO-Metrics are calculated for Test set
+2026-03-15 15:25:45,061-INFO-Metrics are calculated for Train set
+2026-03-15 15:25:45,062-INFO-Test Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:25:45,063-INFO-Train Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:29:15,564-INFO-Underfitting process has started
+2026-03-15 15:29:30,984-INFO-Overfitting process has started
+2026-03-15 15:29:30,991-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:29:31,096-INFO-RF_Under is trained successfully(Ovefit Model)
+2026-03-15 15:29:31,117-INFO-RF_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\RF_Under.joblib
+2026-03-15 15:29:31,141-INFO-Prediction is done for RF_Under
+2026-03-15 15:29:31,153-INFO-Metrics are calculated for Test set
+2026-03-15 15:29:31,165-INFO-Metrics are calculated for Train set
+2026-03-15 15:29:31,167-INFO-Test Metrics for RF_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:29:31,168-INFO-Train Metrics for RF_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:29:31,169-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:29:31,180-INFO-DT_Under is trained successfully(Ovefit Model)
+2026-03-15 15:29:31,182-INFO-DT_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\DT_Under.joblib
+2026-03-15 15:29:31,194-INFO-Prediction is done for DT_Under
+2026-03-15 15:29:31,205-INFO-Metrics are calculated for Test set
+2026-03-15 15:29:31,216-INFO-Metrics are calculated for Train set
+2026-03-15 15:29:31,217-INFO-Test Metrics for DT_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:29:31,219-INFO-Train Metrics for DT_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:07,993-INFO-Overfitting process has started
+2026-03-15 15:31:13,537-INFO-Overfitting process has started
+2026-03-15 15:31:13,544-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:13,725-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:31:13,752-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:31:13,786-INFO-Prediction is done for Random_Forest
+2026-03-15 15:31:13,798-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:13,809-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:13,812-INFO-Test Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:13,813-INFO-Train Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:13,813-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:13,826-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:31:13,829-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:31:13,839-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:31:13,849-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:13,860-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:13,861-INFO-Test Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:13,863-INFO-Train Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:33,352-INFO-Overfitting process has started
+2026-03-15 15:31:33,363-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:33,589-INFO-Random_Forest is trained successfully(Ovefit Model)
+2026-03-15 15:31:33,624-INFO-Random_Forest was saved at C:\animation_technique_classification\Models\Over_Under_Models\Random_Forest.joblib
+2026-03-15 15:31:33,668-INFO-Prediction is done for Random_Forest
+2026-03-15 15:31:33,685-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:33,699-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:33,702-INFO-Test Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:33,704-INFO-Train Metrics for Random_Forest is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:33,704-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:33,723-INFO-Decision_Tree is trained successfully(Ovefit Model)
+2026-03-15 15:31:33,727-INFO-Decision_Tree was saved at C:\animation_technique_classification\Models\Over_Under_Models\Decision_Tree.joblib
+2026-03-15 15:31:33,745-INFO-Prediction is done for Decision_Tree
+2026-03-15 15:31:33,762-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:33,778-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:33,780-INFO-Test Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:33,782-INFO-Train Metrics for Decision_Tree is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:41,616-INFO-Overfitting process has started
+2026-03-15 15:31:41,624-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:41,820-INFO-RF_Under is trained successfully(Ovefit Model)
+2026-03-15 15:31:41,844-INFO-RF_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\RF_Under.joblib
+2026-03-15 15:31:41,868-INFO-Prediction is done for RF_Under
+2026-03-15 15:31:41,880-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:41,891-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:41,894-INFO-Test Metrics for RF_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:41,895-INFO-Train Metrics for RF_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:41,896-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 15:31:41,907-INFO-DT_Under is trained successfully(Ovefit Model)
+2026-03-15 15:31:41,910-INFO-DT_Under was saved at C:\animation_technique_classification\Models\Over_Under_Models\DT_Under.joblib
+2026-03-15 15:31:41,922-INFO-Prediction is done for DT_Under
+2026-03-15 15:31:41,934-INFO-Metrics are calculated for Test set
+2026-03-15 15:31:41,948-INFO-Metrics are calculated for Train set
+2026-03-15 15:31:41,950-INFO-Test Metrics for DT_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics
+2026-03-15 15:31:41,951-INFO-Train Metrics for DT_Under is saved at C:\animation_technique_classification\Metrics\Over_Under_metrics

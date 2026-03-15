@@ -1,0 +1,7 @@
+2026-03-15 13:32:13,189-INFO-Bagging process has started
+2026-03-15 13:32:19,724-INFO-Bagging process has started
+2026-03-15 13:32:19,733-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:32:20,362-INFO-Voting is trained successfully
+2026-03-15 13:32:20,390-INFO-Voting was saved at C:\animation_technique_classification\Models\Voting\Voting.joblib
+2026-03-15 13:32:20,416-INFO-Prediction is done for Voting
+2026-03-15 13:32:20,430-INFO-Metrics for Voting is saved at C:\animation_technique_classification\Metrics\Voting_Metrics

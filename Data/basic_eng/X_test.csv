@@ -1,0 +1,246 @@
+Year,Country,Director,Studio,Release date,Duration,Release Year,Release month,Release day,is_holiday,Duration_Minutes,movie_category
+2013,Canada,Nancy Florence Savard,"10th Ave Productions, CarpeDiem Film & TV",2013-02-22,82 minutes,2013,2,22,False,82.0,standart
+2021,Denmark,Thorbjørn Christoffersen Anders Matthesen,A. Film Pop Up Production Sudoku ApS,2021-08-19,86 minutes,2021,8,19,False,86.0,standart
+2013,Japan,"Shuhei Morita , Katsuhiro Otomo , Hiroaki Ando , Hajime Katoki",Sunrise,2013-07-20,14 minutes 13 minutes 13 minutes 26 minutes,2013,7,20,False,14.0,short
+2014,Japan,Yutaka Izubuchi,Xebec,2014-10-11,120 minutes,2014,10,11,False,120.0,long
+2013,United Kingdom United States,"Leon Joosen, Aaron Seelman",Gateway Films Prana Studios,2013-11-01,83 minutes,2013,11,1,True,83.0,standart
+2015,United States,Karen J. Lloyd & Michael Goguen,"Universal Studios , Arc Productions , Rainmaker Studios",2015-09-08,80 minutes,2015,9,8,False,80.0,standart
+2014,China,Frankie Chung,,2014-07-25,87 minutes,2014,7,25,False,87.0,standart
+2016,India,Suhas D. Kadav,Viacom 18 Motion Pictures Cosmos Entertainment Maya Digital Studios,2016-10-19,110 minutes,2016,10,19,False,110.0,long
+2015,Japan,Hiroyuki Yano,"Anpanman Production Committee, TMS Entertainment",2015-07-04,46 minutes,2015,7,4,False,46.0,standart
+2018,Japan,"Tetsurō Araki , Masashi Koizuka",Wit Studio,2018-01-13,120 minutes,2018,1,13,False,120.0,long
+2015,Canada,Jean-François Pouliot,CarpeDiem Film & TV,2015-11-13,82 minutes,2015,11,13,True,82.0,standart
+2011,Japan,Yukiyo Teramoto,Shin-Ei Animation,2011-03-05,108 minutes,2011,3,5,False,108.0,long
+2014,Brazil,"José Maia, Frederico Pinto",OKNA Produções,2014-12-11,70 minutes,2014,12,11,True,70.0,standart
+2021,United States,Jason Axinn,Warner Bros. Home Entertainment,2021-09-21,71 minutes,2021,9,21,False,71.0,standart
+2014,Spain,Javier Fesser,"Zeta Cinema, Películas Pendelton, Ilion Animation Studios",2014-11-28,88 minutes,2014,11,28,True,88.0,standart
+2021,China,Amp Wong,Light Chaser Animation Studios Alibaba Pictures Tianjin Maoyan Weiying Culture Media Bilibili,2021-07-23,132 minutes,2021,7,23,False,132.0,long
+2021,United States,Cassandra Mackay,Mattel Entertainment,2021-04-16,60 minutes,2021,4,16,False,60.0,standart
+2023,Japan,Hitoshi Ône,ADK Futabasha Shin Ei Animation Shirogumi TV Asahi Productions,2023-08-04,93 minutes [ 242 ] [ unreliable source? ],2023,8,4,False,93.0,long
+2010,Argentina India Mexico,Gustavo Cova,"Illusion Studios , Toonz Entertainment",2010-09-09,87 minutes,2010,9,9,False,87.0,standart
+2025,Japan,Isamu Imakake,HS Pictures Studio IRH Productions,2025-05-23,119 minutes,2025,5,23,False,119.0,long
+2021,Mexico United States,Rodrigo Perez-Castro,Upstairs Timeless Films Latin We,2021-10-15,92 minutes [ 163 ],2021,10,15,False,92.0,long
+2021,Bangladesh,Md. Hanif Siddiqui,Agami Labs,2021-09-28,92 minutes,2021,9,28,False,92.0,long
+2014,Mexico South Korea Colombia,Taedong Park Mauricio De la Orta,Animation Picture Company Avikoo Studios,2014-10-02,82 minutes [ 79 ],2014,10,2,False,82.0,standart
+2017,Denmark,Philip Einstein Lipski Jørgen Lerdam Amalie Næsby Fick,Level K,2017-10-12,78 minutes,2017,10,12,False,78.0,standart
+2012,Japan,Masaya Fujimori,"A-1 Pictures , Satelight",2012-08-18,86 minutes,2012,8,18,False,86.0,standart
+2022,Japan,Takehiko Inoue,Toei Animation Dandelion Animation Studio,2022-12-03,124 minutes [ 105 ],2022,12,3,True,124.0,long
+2016,Japan,Naomi Nakayama Hiroshi Hamasaki,Telecom Animation Film TMS Entertainment,2016-11-18,63 minutes,2016,11,18,True,63.0,standart
+2012,China,"Wang Zhangjun, Fu Jie","Mr.Cartoon Pictures Shanghai Taomee Network Technology Ltd. EE-Media Hunan Aniworld Satellite TV 37 Entertainment China Film Co., Ltd.",2012-06-28,90 minutes,2012,6,28,False,90.0,standart
+2022,United States,Chris Bailey,Six Point Harness,2022-09-03,45 minutes,2022,9,3,False,45.0,short
+2013,United States,Doug Krohn,MGA Entertainment,2013-08-01,74 minutes,2013,8,1,False,74.0,standart
+2022,Denmark,Amalie Næsby Fick,Nordisk Film Pop Up Production Wil Film,2022-07-21,85 minutes,2022,7,21,False,85.0,standart
+2024,Canada,Steve Ball Hailey Kathler,ICON Creative Studio,2024-03-08,68 minutes,2024,3,8,False,68.0,standart
+2022,Japan,Masato Jinbo,Bibury Animation Studios,2022-05-20,136 minutes [ 231 ],2022,5,20,False,136.0,long
+2014,Japan,,Toei Animation,2014-03-15,71 minutes,2014,3,15,False,71.0,standart
+2020,Japan,Kazuaki Imai,Toho,2020-08-07,111 minutes,2020,8,7,False,111.0,long
+2017,Japan,Taichi Ogawa,Kyoto Animation,2017-09-30,105 minutes,2017,9,30,False,105.0,long
+2010,Philippines,Louie Suarez,"Ambient Media, Thaumatrope Animation",2010-12-25,103 minutes,2010,12,25,True,103.0,long
+2012,Japan,Gisaburō Sugii,Tezuka Productions,2012-07-07,108 minutes,2012,7,7,False,108.0,long
+2025,United States,Maggie Kang Chris Appelhans,Netflix Sony Pictures Animation,2025-06-20,100 minutes [ 224 ],2025,6,20,False,100.0,long
+2010,Argentina,"Daniel DeFelippo , Gustavo Giannini",Manos Digitales Animation Studio,2010-02-18,80 minutes,2010,2,18,False,80.0,standart
+2014,Japan,Yutaka Izubuchi,Xebec,2014-10-11,120 minutes,2014,10,11,False,120.0,long
+2018,Russia,Marina Nefedova,Licensing Brands AA Studio,2018-08-23,75 minutes,2018,8,23,False,75.0,standart
+2017,United States,Richard Rich,Nest Family Entertainment StreetLight Animation Productions,2017-03-28,79 minutes,2017,3,28,False,79.0,standart
+2011,Hungary,Antonin Krizanics Géza M. Tóth,Kedd Animation Studio,2011-06-02,65 minutes,2011,6,2,False,65.0,standart
+2013,United States Canada,Cal Brunker,Rainmaker Entertainment The Weinstein Company,2013-02-15,89 minutes [ 32 ] [ 33 ],2013,2,15,False,89.0,standart
+2018,Malaysia,"Yusry Abd Halim (as Yusry Abdul Halim), Carl Mendez",Kartun Studios Malaysia,2018-08-16,90 minutes,2018,8,16,False,90.0,standart
+2025,Norway,Bente Lohne,Alligator Planet Anima Point Anima Vitae PictoryLand Studio 100 Film,2025-11-07,85 minutes,2025,11,7,True,85.0,standart
+2015,United States,Rick Morales,"Warner Bros. Animation , DC Entertainment , The Lego Group",2015-08-25,72 minutes [ 101 ],2015,8,25,False,72.0,standart
+2017,Japan,Eisaku Kawanami,Kyoto Animation Animation Do,2017-10-28,100 minutes,2017,10,28,False,100.0,long
+2021,China,Leon Ding Shao Heqi,"China Film Co., Ltd. Lian Ray Pictures Maoyan HG Entertainment Suniverse Fantawild Animation HG Entertainment Sunac Culture Lian Ray Pictures [ 29 ]",2021-02-12,99 minutes [ 32 ],2021,2,12,False,99.0,long
+2019,Russia,Fyodor Dmitriev,Melnitsa Animation Studio,2019-10-24,77 minutes,2019,10,24,False,77.0,standart
+2018,Canada,Adam Wood,Bron Studios,2018-12-07,89 minutes,2018,12,7,True,89.0,standart
+2023,Japan,Haruo Sotozaki,Ufotable Toho Aniplex,2023-02-03,110 minutes,2023,2,3,False,110.0,long
+2013,Denmark,Kenneth Kainz,Crone Film,2013-02-07,76 minutes,2013,2,7,False,76.0,standart
+2021,Japan,Risako Yoshida,Eight Bit Eight Bit Niigata,2021-12-31,71 minutes,2021,12,31,True,71.0,standart
+2014,India,Rajiv Chilaka,Green Gold Animation,2014-05-17,99 minutes,2014,5,17,False,99.0,long
+2010,India,Chetan Desai,Maya Digital Media,2010-10-15,98 minutes [ 20 ],2010,10,15,False,98.0,long
+2021,Russia,Andrey Kolpin,Parovoz Animation Studio,2021-10-28,100 minutes,2021,10,28,False,100.0,long
+2016,Sweden Hungary Germany Taiwan,Christian Ryltenius Maria Blom,SF Studios Tre Vänner,2016-12-25,65 minutes,2016,12,25,True,65.0,standart
+2020,United States,BC Fourteen,Ruthless Studios,2020-10-06,70 minutes,2020,10,6,False,70.0,standart
+2021,South Korea United States Poland,Kwang Il Han,Netflix Studio Mir Little Schmidt Productions Platige Image Hivemind,2021-08-23,83 minutes [ 320 ],2021,8,23,False,83.0,standart
+2016,Japan,Satoshi Kuwabara,Studio Gallop,2016-04-23,131 minutes,2016,4,23,False,131.0,long
+2014,United States,Mike Nawrocki,Big Idea Productions,2014-03-11,48 minutes,2014,3,11,False,48.0,standart
+2019,Malaysia,Ahmad Razuri Roseli Adam Amiruddin Syed Nurfaiz Khalid Syed Ibrahim,Les' Copaque Production,2019-03-21,100 minutes,2019,3,21,False,100.0,long
+2022,Argentina,Fernando Sirianni Federico Breser,FS Entertainment Nomad Cine EOK Producciones McFly Studio,2022-09-08,103 minutes,2022,9,8,False,103.0,long
+2021,Japan,Loundraw,Flat Studio Flagship Line,2021-11-12,40 minutes [ 280 ],2021,11,12,True,40.0,short
+2017,Japan,Tsutomu Mizushima,Actas,2017-12-09,47 minutes,2017,12,9,True,47.0,standart
+2025,Indonesia,Ryan Adriandhy,Visinema Animation,2025-03-31,102 minutes,2025,3,31,False,102.0,long
+2017,Japan,Osamu Nabeshima,TMS/8PAN,2017-10-13,90 minutes,2017,10,13,False,90.0,standart
+2014,India,Harry Baweja,Baweja Movies Irealities Technology,2014-11-06,128 minutes [ 36 ] [ 37 ],2014,11,6,True,128.0,long
+2023,Japan,Yoshiyuki Momose,Studio Ponoc,2023-12-15,105 minutes [ 147 ],2023,12,15,True,105.0,long
+2020,United States,Ethan Spaulding,Warner Bros. Animation NetherRealm Studios,2020-04-14,80 minutes,2020,4,14,False,80.0,standart
+2020,South Korea,Byoung-Wook Ahn,TUBA Entertainment,2020-07-23,89 minutes,2020,7,23,False,89.0,standart
+2013,Japan,Akiyuki Shinbo,Shaft,2013-10-26,116 minutes,2013,10,26,False,116.0,long
+2012,Czech Republic,Jan Tománek,Art And Animation studio,2012-10-25,85 minutes,2012,10,25,False,85.0,standart
+2020,Japan,Shingo Natsume,Madhouse,2020-02-14,47 minutes,2020,2,14,False,47.0,standart
+2014,China,"Lu Hengyu, Li Shujie",Wanda Media Shanghai Toonmax Media Paramount Pictures Nickelodeon Movies Tencent Pictures U-17 Spin Master Entertainment,2014-12-31,100 minutes,2014,12,31,True,100.0,long
+2013,United States,"Cody Cameron , Kris Pearn",Sony Pictures Animation,2013-09-27,95 minutes [ 15 ],2013,9,27,False,95.0,long
+2015,United States,Craig George,,2015-03-03,38 minutes,2015,3,3,False,38.0,short
+2018,Japan,Gorō Taniguchi,Sunrise,2018-02-10,,2018,2,10,False,,
+2022,United States Canada South Korea Hong Kong,Mark A.Z. Dippé Matt Philip Whelan Youngki Lee,Netflix One Cool Animation Andrews McMeel Entertainment Legacy Classics Family Entertainment StoryBerry,2022-05-06,88 minutes,2022,5,6,False,88.0,standart
+2024,Japan,Kenji Nakamura,EOTA,2024-07-26,89 minutes [ 160 ],2024,7,26,False,89.0,standart
+2019,Japan,Makoto Shinkai,CoMix Wave Films,2019-07-19,112 minutes [ 204 ],2019,7,19,False,112.0,long
+2020,Germany Belgium,Tomer Eshed,Constantin Film,2020-10-01,92 minutes,2020,10,1,False,92.0,long
+2020,Japan,Hirofumi Ogura,David Production,2020-09-05,115 minutes,2020,9,5,False,115.0,long
+2012,United States,Mucci Fassett,MGA Entertainment,2012-01-10,74 minutes,2012,1,10,False,74.0,standart
+2017,China South Korea,Yan Huang Yu Shen,,2017-08-04,89 minutes,2017,8,4,False,89.0,standart
+2016,United States,Rick Morales,Warner Bros. Animation The Lego Group,2016-05-10,75 minutes [ 110 ],2016,5,10,False,75.0,standart
+2015,Japan,Junichi Sato,TYO Animations,2015-11-28,51 minutes (Part 3) [ 170 ],2015,11,28,True,51.0,standart
+2024,United States,Vicky Jenson,Netflix Skydance Animation,2024-11-22,109 minutes [ 221 ],2024,11,22,True,109.0,long
+2024,Japan,Ken Yamamoto,CygamesPictures,2024-05-24,108 minutes,2024,5,24,False,108.0,long
+2015,China,He Zili,,2015-05-29,80 minutes,2015,5,29,False,80.0,standart
+2023,Japan,Tsutomu Mizushima,Actas,2023-10-06,56 minutes,2023,10,6,False,56.0,standart
+2025,Japan,Tatsuya Ishihara,Crunchyroll,2025-06-27,105 minutes,2025,6,27,False,105.0,long
+2016,Japan,Hiroaki Sakurai,J.C. Staff,2016-02-27,70  minutes,2016,2,27,False,70.0,standart
+2018,Japan,Yōko Ikeda,Toei Animation,2018-03-17,,2018,3,17,False,,
+2011,Haitti,Jean-Marie Lamour,,2011-08-13,,2011,8,13,False,,
+2020,Japan,Tsutomu Mizushima,P.A. Works,2020-02-29,119 minutes [ 152 ],2020,2,29,False,119.0,long
+2018,United States,Lynne Southerland,Gold Valley Films,2018-01-01,90 minutes,2018,1,1,False,90.0,standart
+2015,Canada,Jay Surridge,"Eh-Okay Entertainment Inc, DHX Media/Vancouver",2015-12-01,46 minutes,2015,12,1,True,46.0,standart
+2024,United States,Matt Hullum,Rooster Teeth,2024-05-21,85 minutes,2024,5,21,False,85.0,standart
+2011,Denmark,Esben Toft Jacobsen,Copenhagen Bombay / Film i Väst,2011-02-10,75 minutes,2011,2,10,False,75.0,standart
+2013,Japan,Keiichiro Kawaguchi,Madhouse,2013-12-27,98 minutes,2013,12,27,True,98.0,long
+2012,South Africa,Wayne Thornley,Triggerfish Animation Studios,2012-07-03,82 minutes,2012,7,3,False,82.0,standart
+2023,Japan,Takashi Noto,Production I.G,2023-01-20,54 minutes,2023,1,20,False,54.0,standart
+2012,Japan,,,2012-09-22,90 minutes,2012,9,22,False,90.0,standart
+2014,Japan,Jun Kawagoe,"Anpanman Production Committee, TMS Entertainment",2014-07-05,45 minutes,2014,7,5,False,45.0,short
+2017,Japan,Keitaro Motonaga,Toei Animation,2017-02-25,78 minutes (Part 4) [ 62 ],2017,2,25,False,78.0,standart
+2011,United States,Mark Baldo,Rainmaker Entertainment / Universal Pictures / Kidtoon Films,2011-11-08,74 minutes,2011,11,8,True,74.0,standart
+2016,Canada,Karen J. Lloyd,Eh-Okay Entertainment Inc DHX Media/Vancouver,2016-10-21,47 minutes,2016,10,21,False,47.0,standart
+2020,China,Zhihong Chen Marc Handler,Toonmax Media Co Ltd.,2020-09-09,,2020,9,9,False,,
+2012,India,Nikhil Advani,Krayon Pictures,2012-10-19,92 minutes,2012,10,19,False,92.0,long
+2024,Russia,Konstantin Bronzit,CTB Film Company Melnitsa Animation Studio,2024-08-29,78 minutes,2024,8,29,False,78.0,standart
+2011,China,Fukutomi Hiroshi,Intercontinental Video,2011-04-19,86 minutes,2011,4,19,False,86.0,standart
+2016,China,Yang Zhang,Tianjin Maoyan Media,2016-02-08,97 minutes [ 120 ],2016,2,8,False,97.0,long
+2016,Japan,Naoki Miyahara,Toei Animation,2016-12-23,95 minutes,2016,12,23,True,95.0,long
+2016,Japan,Masashi Ishihama,A-1 Pictures,2016-01-09,67 minutes,2016,1,9,False,67.0,standart
+2013,United States,Cora Clifford,,2013-12-05,76 minutes,2013,12,5,True,76.0,standart
+2018,Italy Poland,Sergio Manfio,Gruppo Alcuni,2018-01-11,85 minutes [ 121 ],2018,1,11,False,85.0,standart
+2014,China,Wu Jianrong Fang Lei,,2014-05-30,90 minutes,2014,5,30,False,90.0,standart
+2017,Brazil,Rafael Ribas,Start Desenhos Animados,2017-09-07,94 minutes,2017,9,7,False,94.0,long
+2025,United States,Phil Johnston Katie Shanahan Todd Demong,Netflix Animation Jellyfish Pictures,2025-10-17,98 minutes,2025,10,17,False,98.0,long
+2010,United States,Steve Trenbirth,"JC2 Animated Entertainment, Starz Animation",2010-10-14,92 minutes,2010,10,14,False,92.0,long
+2020,Japan,Yuu Nobuta Jun Nakagawa,A-1 Pictures,2020-01-18,105 minutes [ 80 ],2020,1,18,False,105.0,long
+2024,Germany Canada,Piet De Rycker Jesper Møller Jens Møller,Carpe Diem Film & TV Dreamin' Dolphin Film Eagle Eye Filmproduktion Traumhaus Studios Zooper Film,2024-06-27,86 minutes,2024,6,27,False,86.0,standart
+2020,Japan,Tomonori Sudō,Ufotable,2020-08-15,122 minutes [ 67 ],2020,8,15,False,122.0,long
+2018,Japan,"Noriyuki Abe , Yasuto Nishikata",A-1 Pictures,2018-08-18,99 minutes,2018,8,18,False,99.0,long
+2020,Japan,Tomohisa Taguchi,Yumeta Company,2020-02-21,94 minutes [ 51 ],2020,2,21,False,94.0,long
+2012,Thailand,,,2012-08-02,81 minutes,2012,8,2,False,81.0,standart
+2024,United States,Eric Fogel,DreamWorks Animation Television,2024-03-01,85 minutes,2024,3,1,False,85.0,standart
+2018,Japan,"Hiroshi Kawamata, Hiro Takashima",Benesse Toho Sony Music Direct,2018-03-09,52 minutes,2018,3,9,False,52.0,standart
+2010,Japan,Jun Awazu,CoMix Wave,2010-05-22,53 minutes,2010,5,22,False,53.0,standart
+2023,Japan,Takayuki Hamana,Production I.G,2023-03-31,59 minutes,2023,3,31,False,59.0,standart
+2022,United States,Guy Moore,Oddbot Entertainment Stampede Ventures The Mo Willems Workshop,2022-06-30,55 minutes,2022,6,30,False,55.0,standart
+2021,United States,Mark Baldo,Lionsgate,2021-06-11,90 minutes,2021,6,11,False,90.0,standart
+2022,Japan,Mamoru Hatakeyama,A-1 Pictures,2022-12-17,100 minutes,2022,12,17,True,100.0,long
+2014,China Japan,,,2014-01-31,81 minutes,2014,1,31,False,81.0,standart
+2014,United States Spain,Pablo Fernandez,,2014-04-21,77 minutes,2014,4,21,False,77.0,standart
+2017,Japan,Akiyuki Shinbo Tatsuya Oishi,Shaft,2017-01-06,83 minutes [ 119 ],2017,1,6,False,83.0,standart
+2021,Peru Netherlands,Richard Claus Jose Zelada,Tunche Films Cool Beans,2021-02-13,89 minutes [ 7 ],2021,2,13,False,89.0,standart
+2012,Germany,Irina Probost,,2012-05-24,75 minutes,2012,5,24,False,75.0,standart
+2013,Japan,Takuya Igarashi,Bones,2013-02-09,150 minutes,2013,2,9,False,150.0,long
+2011,Dominican Republic,Jorge Morillo Luis Morillo,Raycast Animation Studio Antena Latina Films,2011-01-06,80 minutes,2011,1,6,False,80.0,standart
+2023,Russia,Vasiliy Rovenskiy,Nashe Kino,2023-12-27,75 minutes,2023,12,27,True,75.0,standart
+2023,United States,Mike Roth,Warner Bros. Animation DC Entertainment,2023-12-08,96 minutes,2023,12,8,True,96.0,long
+2012,Belgium,Ben Stassen,"nWave Pictures , Illuminata Pictures",2012-08-15,92 minutes [ 17 ],2012,8,15,False,92.0,long
+2013,Japan,Masahiro Andō,P.A. Works,2013-03-30,66 minutes,2013,3,30,False,66.0,standart
+2018,Denmark,Dorte Bengtson,Ja Film,2018-02-01,72 minutes,2018,2,1,False,72.0,standart
+2019,Japan,Shin Oonuma,Silver Link,2019-06-14,62 minutes,2019,6,14,False,62.0,standart
+2018,Japan,Hiroyuki Seshita Kōbun Shizuno,Polygon Pictures,2018-05-18,100 minutes [ 81 ],2018,5,18,False,100.0,long
+2018,Russia,Denis Chernov,Petersburg Animation Studio,2018-04-26,85 minutes,2018,4,26,False,85.0,standart
+2013,China,,,2013-06-02,,2013,6,2,False,,
+2021,Russia Armenia,Vage Sargsyan,Paradiz Prodakshnz Touch FX Animation Studio,2021-04-15,83 minutes,2021,4,15,False,83.0,standart
+2020,Japan,Takaharu Ozaki,Asahi Production,2020-10-02,,2020,10,2,False,,
+2012,United States,Michael Chang,"Warner Bros. Animation , DC Entertainment",2012-06-12,76 Minutes,2012,6,12,False,76.0,standart
+2011,Japan,Kozo Morishita,Toei Animation / Warner Bros.,2011-05-28,110 minutes,2011,5,28,False,110.0,long
+2016,Russia,Vlad Barbe,CTB Film Company,2016-10-27,74 minutes,2016,10,27,False,74.0,standart
+2014,China,Liang Ding,Fantawild Animation Inc.,2014-01-17,96 minutes,2014,1,17,False,96.0,long
+2017,Japan,Shukō Murase,Manglobe Geno Studio,2017-02-03,115 minutes,2017,2,3,False,115.0,long
+2015,China,"Ming Zhang, Zhaohui Weng",Zhejiang Huanqin Media,2015-06-27,90 minutes,2015,6,27,False,90.0,standart
+2020,Japan,Takahiko Kyōgoku,Shin-Ei Animation,2020-09-11,103 minutes,2020,9,11,False,103.0,long
+2011,United States,"Deryck Broom, Roger Hawkins",Animated Family Films / Rocky Mountain Pictures,2011-06-03,87 minutes,2011,6,3,False,87.0,standart
+2011,United States,"Spike Brandt, Tony Cervone","Warner Bros. Animation , Hanna-Barbera , Turner Entertainment",2011-08-23,59 minutes,2011,8,23,False,59.0,standart
+2014,United States,Ethan Spaulding,Warner Bros. Animation DC Entertainment The Answer Studio (Animation services),2014-04-22,74 minutes,2014,4,22,False,74.0,standart
+2025,United Kingdom,Gretchen Mallorie,Hasbro,2025-05-30,65 minutes,2025,5,30,False,65.0,standart
+2025,Iran,Reza Arzangi,Soure Cinema Development Organization,2025-09-23,90 minutes,2025,9,23,False,90.0,standart
+2016,South Korea,Hyun-Joo Kim,Studio Holhory co Seok-joon,2016-09-07,80 minutes,2016,9,7,False,80.0,standart
+2020,Japan,Masahiro Takata,Lesprit,2020-12-11,53 minutes,2020,12,11,True,53.0,standart
+2025,Japan,Shouta Goshozono,MAPPA Toho Animation,2025-05-30,110 minutes,2025,5,30,False,110.0,long
+2023,United States,Wendy Rogers,Netflix Animation Animal Logic,2023-05-17,100 minutes [ 185 ],2023,5,17,False,100.0,long
+2013,Spain,Maite Ruiz de Austri,Extra Extremadura de Audiovisuales S.A.,2013-12-05,93 minutes,2013,12,5,True,93.0,long
+2019,United States,Richard Finn Tim Maltby,Assemblage Entertainment Dream Factory Group Splash Entertainment,2019-06-11,90 minutes,2019,6,11,False,90.0,standart
+2010,Denmark,Jørgen Lerdam,,2010-10-14,70 minutes [ 17 ],2010,10,14,False,70.0,standart
+2018,Japan,Kenji Yasuda,Studio Nue Satelight,2018-02-09,119 minutes,2018,2,9,False,119.0,long
+2010,United States,Ethan Spaulding,Warner Bros. Animation Hanna-Barbera,2010-09-14,72 minutes [ 23 ],2010,9,14,False,72.0,standart
+2011,Japan,Takahiro Omori,Brain's Base,2011-09-17,44 minutes,2011,9,17,False,44.0,short
+2022,United States,Mitch Schauer,Netflix Splash Entertainment,2022-11-09,73 minutes,2022,11,9,True,73.0,standart
+2022,Japan,Hiroyasu Ishida,Studio Colorido,2022-09-16,119 minutes,2022,9,16,False,119.0,long
+2014,Japan,Masakazu Hishida,Tatsunoko Production,2014-03-08,48 minutes,2014,3,8,False,48.0,standart
+2014,China,Wang Yunfei,,2014-08-08,80 minutes,2014,8,8,False,80.0,standart
+2010,Turkey,Kerem S. Hünal,Sobee Studios,2010-08-22,56 minutes,2010,8,22,False,56.0,standart
+2017,Denmark,Karla von Bengtson,Copenhagen Bombay TriCoast Entertainment,2017-08-10,77 minutes,2017,8,10,False,77.0,standart
+2021,Japan,Seiki Takuno,Liden Films,2021-06-11,104 minutes,2021,6,11,False,104.0,long
+2013,China,"Wang Zhangjun , Yin Yuqi",Shanghai Taomee Animation Limited Enlight Pictures,2013-07-12,103 minutes,2013,7,12,False,103.0,long
+2020,Denmark,Kim Hagen Jensen,Sola Media,2020-02-06,81 minutes [ 57 ],2020,2,6,False,81.0,standart
+2010,United States,Mike Mitchell,DreamWorks Animation,2010-05-21,93 minutes,2010,5,21,False,93.0,long
+2013,China,,,2013-12-01,,2013,12,1,True,,
+2013,Japan,Isao Takahata,Studio Ghibli,2013-11-23,137 minutes [ 69 ],2013,11,23,True,137.0,long
+2019,China,Liaoyu Chen Paulette Victor-Lifton,Odin's Eye Entertainment,2019-12-16,89 minutes 78 minutes (South Korea),2019,12,16,True,89.0,standart
+2022,United States,Ron Myrick,Mattel Entertainment,2022-09-01,65 minutes,2022,9,1,False,65.0,standart
+2025,Japan,Hiroyuki Hata,P.A. Works,2025-01-17,105 minutes,2025,1,17,False,105.0,long
+2016,China Hong Kong,Brian Tse,Sunwah Media,2016-09-15,90 minutes [ 72 ],2016,9,15,False,90.0,standart
+2022,Belgium France Luxembourg,Carlo Vogele,Iris Productions Rezo Productions Iris Films,2022-03-30,76 minutes,2022,3,30,False,76.0,standart
+2021,Japan,Jun Kawagoe,"Anpanman Production Committee, TMS Entertainment",2021-06-25,63 minutes,2021,6,25,False,63.0,standart
+2010,United States,"Lauren Montgomery , Sam Liu",Warner Bros. Animation,2010-02-23,75 minutes,2010,2,23,False,75.0,standart
+2014,United States,Tom Walsh,EnterAktion Studios,2014-11-14,97 minutes,2014,11,14,True,97.0,long
+2011,Japan,Shoji Kawamori,Satelight,2011-02-26,115 minutes,2011,2,26,False,115.0,long
+2025,Japan,Wataru Takahashi,Shin-Ei Animation,2025-11-07,97 minutes,2025,11,7,True,97.0,long
+2013,Japan,Koji Ogawa,Toei Animation,2013-03-16,71 minutes,2013,3,16,False,71.0,standart
+2015,United States,Ezekiel Norton,"Universal Studios , Arc Productions , Rainmaker Studios",2015-03-03,73 minutes,2015,3,3,False,73.0,standart
+2020,United States,Maxwell Atoms,Warner Bros. Animation Hanna-Barbera,2020-10-06,80 minutes [ 76 ],2020,10,6,False,80.0,standart
+2014,Netherlands,Albert 't Hooft Paco Vink,il Luster Productions Vivi Film KRO,2014-10-08,65 minutes,2014,10,8,False,65.0,standart
+2015,Japan,Keitaro Motonaga,Toei Animation,2015-11-21,86 minutes (Part 1) [ 55 ],2015,11,21,True,86.0,standart
+2023,Sweden,Christian Ryltenius,Nordisk Film,2023-12-22,65 minutes,2023,12,22,True,65.0,standart
+2020,Japan,Haruo Sotozak,Ufotable,2020-10-16,117 minutes,2020,10,16,False,117.0,long
+2018,Japan,Tatsuya Ishihara,Kyoto Animation,2018-01-06,90 minutes,2018,1,6,False,90.0,standart
+2011,Japan,Jun Shishido,Madhouse / TMS Entertainment,2011-10-01,100 minutes,2011,10,1,False,100.0,long
+2015,China,Zhangjun Wang,Shanghai Taomi Animation Beijing Enlight Media Beijing Iqiyi Beijing KAKU Cartoon Satellite TV [ 21 ],2015-07-23,90 minutes,2015,7,23,False,90.0,standart
+2021,China,Dong Long Nigel W. Tierney,Suzhou Pegasus Liangzi Film Tierney Corp Productions,2021-10-01,94 minutes,2021,10,1,False,94.0,long
+2019,United Kingdom,Dapeng Zhang,Astley Baker Davies Ltd Entertainment One,2019-02-05,81 minutes,2019,2,5,False,81.0,standart
+2012,Russia,"Maxim Sveshnikov, Vladlen Barbe","Wizart Animation , InlayFilm",2012-12-31,74 minutes [ 97 ],2012,12,31,True,74.0,standart
+2015,United States,Gary Rydstrom,"Lucasfilm , Lucasfilm Animation , Industrial Light & Magic",2015-01-23,99 minutes [ 165 ] [ 166 ],2015,1,23,False,99.0,long
+2024,Malaysia,Ahmad Razuri Roseli Nik Ahmad Rasyidi Nik Othman,Les' Copaque Production Astro Shaw,2024-12-26,99 minutes,2024,12,26,True,99.0,long
+2011,Japan,Masahiko Murata,Studio Pierrot,2011-07-27,103 minutes,2011,7,27,False,103.0,long
+2019,China,Jinming Lu Zhong Yu,WinSing,2019-07-05,85 minutes,2019,7,5,False,85.0,standart
+2015,China,Huang Weiming,Shanghai Film Group Alpha Pictures Investment (Beijing) Creative Power Entertaining Beijing TV Kaku Kids Channel Jiangsu Youman Cartoon TV Guangdong Jia-jia Cartoon Channel Beijing Guolong Film Distributors,2015-01-31,86 minutes,2015,1,31,False,86.0,standart
+2013,China,,,2013-06-30,90 minutes,2013,6,30,False,90.0,standart
+2014,China,Zheng Chongxin,,2014-09-06,82 minutes,2014,9,6,False,82.0,standart
+2013,United States,Owen Hurley,Universal Studios Arc Productions Rainmaker Studios,2013-02-26,72 minutes,2013,2,26,False,72.0,standart
+2017,Japan,Shin Oonuma,Kadokawa Animation Silver Link,2017-08-26,90 minutes,2017,8,26,False,90.0,standart
+2011,Japan,Kazuya Nomura,Production I.G,2011-06-04,95 minutes,2011,6,4,False,95.0,long
+2014,Germany,Peter Claridge,"WunderWerk, Zeitsprung Pictures",2014-10-30,78 minutes,2014,10,30,False,78.0,standart
+2025,United Kingdom Luxembourg France Belgium,Caroline Origer,Fabrique d'Images Fantabulous Freaks Factory Iheartcinema Iron Box Films Kapers Animation,2025-08-29,85 minutes,2025,8,29,False,85.0,standart
+2023,Japan,Sōichi Masui,CloverWorks,2023-06-23,73 minutes,2023,6,23,False,73.0,standart
+2013,Japan,Tatsuyuki Nagai,A-1 Pictures,2013-08-31,99 minutes,2013,8,31,False,99.0,long
+2012,United States,Don Hertzfeldt,Bitter Films,2012-08-24,62 minutes,2012,8,24,False,62.0,standart
+2020,Japan,Toshimasa Kuroyanagi,A-1 Pictures,2020-09-18,103 minutes,2020,9,18,False,103.0,long
+2021,Japan,Shinya Kawatsura,David Production,2021-08-27,100 minutes [ 137 ],2021,8,27,False,100.0,long
+2010,Japan,Takashi Otsuka,Toei Animation,2010-03-20,74 minutes,2010,3,20,False,74.0,standart
+2020,China,Lingxiao Li,Gudong animation studio,2020-07-31,89 minutes,2020,7,31,False,89.0,standart
+2014,Japan,Toshiaki Komura,"Toei Animation , Tezuka Productions",2014-02-08,85 minutes,2014,2,8,False,85.0,standart
+2014,Japan,Tatsuo Satō,Satelight,2014-02-22,93 minutes,2014,2,22,False,93.0,long
+2021,France,Anthony Roux Jean-Jacques Denis,Ankama France 3 Cinéma France Télévisions,2021-12-15,70 minutes,2021,12,15,True,70.0,standart
+2015,Spain,Gorka Vázquez,Baleuko S.L. Draftoon Talape,2015-12-04,59 minutes,2015,12,4,True,59.0,standart
+2013,China,Sheng-jun Yu,"Shenzhen Tencent Computer Systems, Jiangsu Youman Cartoon TV",2013-01-31,89 minutes,2013,1,31,False,89.0,standart
+2023,Japan,Yuzuru Tachikawa,NUT,2023-02-17,120 minutes,2023,2,17,False,120.0,long
+2024,United States,David Derrick Jr.,Walt Disney Animation Studios,2024-11-27,100 minutes [ 157 ],2024,11,27,True,100.0,long
+2013,United States,Mike Nawrocki,Big Idea Productions,2013-07-30,46 minutes,2013,7,30,False,46.0,standart
+2021,Japan,Junichi Sato (Chief) Takahiro Natori,J.C.Staff,2021-03-05,60 minutes,2021,3,5,False,60.0,standart
+2022,Japan,Susumu Mitsunaka,TMS Entertainment,2022-04-15,111 minutes,2022,4,15,False,111.0,long
+2022,Russia Hungary,"Georgi Gitis, Viktor Glukhushin",CTB Film Company Luminescence Kft,2022-12-08,90 minutes,2022,12,8,True,90.0,standart
+2023,France,David Alaux,TAT Productions Apollo Films,2023-01-25,95 minutes,2023,1,25,False,95.0,long
+2015,Japan,Osamu Nabeshima,TMS/8PAN,2015-06-12,89 minutes,2015,6,12,False,89.0,standart
+2015,Canada,"Mike Barth, Jamie Gallant","Martin's River Ink, PiP Animation Services , Tandem Communications",2015-01-04,88 minutes,2015,1,4,False,88.0,standart
+2020,China,Dai Chang Hao,Hefei Chuangxin Fuhao Entertainment Co Ltd.,2020-08-24,81 minutes,2020,8,24,False,81.0,standart

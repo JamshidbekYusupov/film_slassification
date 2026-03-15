@@ -1,0 +1,59 @@
+2026-03-15 12:29:55,285-INFO-Bagging process has started
+2026-03-15 12:31:33,072-INFO-Bagging process has started
+2026-03-15 12:35:48,273-INFO-Bagging process has started
+2026-03-15 12:35:48,282-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:43:16,612-INFO-Bagging process has started
+2026-03-15 12:43:16,619-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:44:38,190-INFO-Bagging process has started
+2026-03-15 12:44:43,792-INFO-Bagging process has started
+2026-03-15 12:44:43,798-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:47:32,665-INFO-Bagging process has started
+2026-03-15 12:47:32,673-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:51:20,132-INFO-Bagging process has started
+2026-03-15 12:51:41,814-INFO-Bagging process has started
+2026-03-15 12:51:41,828-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:51:42,030-INFO-RF is trained successfully
+2026-03-15 12:51:42,057-INFO-RF was saved at C:\animation_technique_classification\Models\Bagging\RF.joblib
+2026-03-15 12:51:42,069-INFO-Prediction is done for RF
+2026-03-15 12:51:42,084-INFO-Metrics for RF is saved at C:\animation_technique_classification\Metrics\Bagging_metrics
+2026-03-15 12:58:15,228-INFO-Bagging process has started
+2026-03-15 12:58:21,139-INFO-Bagging process has started
+2026-03-15 12:58:21,146-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 12:58:35,153-INFO-RF is trained successfully
+2026-03-15 12:58:37,594-INFO-RF was saved at C:\animation_technique_classification\Models\Bagging\RF.joblib
+2026-03-15 12:58:38,245-INFO-Prediction is done for RF
+2026-03-15 12:58:38,259-INFO-Metrics for RF is saved at C:\animation_technique_classification\Metrics\Bagging_metrics
+2026-03-15 13:07:39,260-INFO-Bagging process has started
+2026-03-15 13:08:57,902-INFO-Bagging process has started
+2026-03-15 13:11:03,426-INFO-Bagging process has started
+2026-03-15 13:11:08,251-INFO-Bagging process has started
+2026-03-15 13:11:08,259-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:11:42,418-INFO-Bagging process has started
+2026-03-15 13:11:51,066-INFO-Bagging process has started
+2026-03-15 13:11:51,075-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:12:00,866-INFO-Bagging process has started
+2026-03-15 13:12:00,874-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:12:30,465-INFO-Bagging process has started
+2026-03-15 13:12:41,182-INFO-Bagging process has started
+2026-03-15 13:12:41,191-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:18:43,082-INFO-Bagging process has started
+2026-03-15 13:18:52,429-INFO-Bagging process has started
+2026-03-15 13:19:22,944-INFO-Bagging process has started
+2026-03-15 13:19:29,238-INFO-Bagging process has started
+2026-03-15 13:20:27,955-INFO-Bagging process has started
+2026-03-15 13:20:32,981-INFO-Bagging process has started
+2026-03-15 13:20:32,989-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:20:33,592-INFO-Voting is trained successfully
+2026-03-15 13:20:33,619-INFO-Voting was saved at C:\animation_technique_classification\Models\Bagging\Voting.joblib
+2026-03-15 13:20:33,643-INFO-Prediction is done for Voting
+2026-03-15 13:20:33,657-INFO-Metrics for Voting is saved at C:\animation_technique_classification\Metrics\Bagging_metrics
+2026-03-15 13:21:38,842-INFO-Bagging process has started
+2026-03-15 13:21:43,779-INFO-Bagging process has started
+2026-03-15 13:21:43,789-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:21:44,546-INFO-Voting is trained successfully
+2026-03-15 13:21:44,572-INFO-Voting was saved at C:\animation_technique_classification\Models\Voting\Voting.joblib
+2026-03-15 13:21:44,600-INFO-Prediction is done for Voting
+2026-03-15 13:21:44,615-INFO-Metrics for Voting is saved at C:\animation_technique_classification\Metrics\Voting_Metrics
+2026-03-15 13:28:52,403-INFO-Bagging process has started
+2026-03-15 13:29:46,121-INFO-Bagging process has started
+2026-03-15 13:29:53,678-INFO-Bagging process has started

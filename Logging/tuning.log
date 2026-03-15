@@ -1,0 +1,113 @@
+2026-03-15 14:03:55,887-INFO-Bagging process has started
+2026-03-15 14:05:06,628-INFO-Bagging process has started
+2026-03-15 14:05:06,638-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 14:05:06,824-INFO-RF is trained successfully
+2026-03-15 14:05:06,824-INFO-Starting Grid Search for RF
+2026-03-15 14:05:06,826-ERROR-Error during Grid Search: 'tuning_pipeline' object has no attribute 'X_tain'
+2026-03-15 14:05:31,385-INFO-Bagging process has started
+2026-03-15 14:05:36,212-INFO-Bagging process has started
+2026-03-15 14:06:33,218-INFO-Bagging process has started
+2026-03-15 14:06:33,225-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 14:06:33,408-INFO-RF is trained successfully
+2026-03-15 14:06:33,408-INFO-Starting Grid Search for RF
+2026-03-15 14:06:33,505-ERROR-Error during Grid Search: The 'param_grid' parameter of GridSearchCV must be an instance of 'dict' or an instance of 'list'. Got tuning_pipeline(X_test=     Year                       Country                                           Director  ... is_holiday Duration_Minutes movie_category
+0    2013                        Canada                              Nancy Florence Savard  ...      False             82.0       standart
+1    2021                       Denmark          Thorbj©ªrn Christoffersen Anders Matthesen  ...      False             86.0       standart
+2    2013                         Japan  Shuhei Morita , Katsuhiro Otomo , Hiroaki Ando...  ...      False             14.0          short
+3    2014                         Japan                                    Yutaka Izubuchi  ...      False            120.0           long
+4    2013  United Kingdom United States                         Leon J...
+                                                                                         OrdinalEncoder(handle_unknown='use_encoded_value',
+                                                                                                        unknown_value=-1))]),
+                                                                        ['Country',
+                                                                         'Director',
+                                                                         'Studio',
+                                                                         'is_holiday',
+                                                                         'movie_category'])])),
+                                      ('model',
+                                       RandomForestClassifier(random_state=42))]),
+                model_name='RF', target='Animation technique',
+                y_test=     Animation technique
+0                      0
+1                      0
+2                      4
+3                      4
+4                      1
+..                   ...
+240                    0
+241                    0
+242                    4
+243                    3
+244                    4
+
+[245 rows x 1 columns],
+                y_train=      Animation technique
+0                       0
+1                       1
+2                       4
+3                       0
+4                       0
+...                   ...
+1026                    4
+1027                    4
+1028                    3
+1029                    4
+1030                    0
+
+[1031 rows x 1 columns]) instead.
+2026-03-15 14:09:04,765-INFO-Bagging process has started
+2026-03-15 14:09:04,773-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 14:09:04,773-INFO-Starting Grid Search for RF
+2026-03-15 14:09:04,845-ERROR-Error during Grid Search: The 'param_grid' parameter of GridSearchCV must be an instance of 'dict' or an instance of 'list'. Got tuning_pipeline(X_test=     Year                       Country                                           Director  ... is_holiday Duration_Minutes movie_category
+0    2013                        Canada                              Nancy Florence Savard  ...      False             82.0       standart
+1    2021                       Denmark          Thorbj©ªrn Christoffersen Anders Matthesen  ...      False             86.0       standart
+2    2013                         Japan  Shuhei Morita , Katsuhiro Otomo , Hiroaki Ando...  ...      False             14.0          short
+3    2014                         Japan                                    Yutaka Izubuchi  ...      False            120.0           long
+4    2013  United Kingdom United States                         Leon J...
+1028    Netherlands                               Patrick Raats  ...             70.0        standart
+1029     Bangladesh                         Sohel Mohammad Rana  ...             49.0        standart
+1030  Canada Norway                                Kevin Munroe  ...             91.0            long
+
+[1031 rows x 9 columns],
+                model=None, model_name='RF', target='Animation technique',
+                y_test=     Animation technique
+0                      0
+1                      0
+2                      4
+3                      4
+4                      1
+..                   ...
+240                    0
+241                    0
+242                    4
+243                    3
+244                    4
+
+[245 rows x 1 columns],
+                y_train=      Animation technique
+0                       0
+1                       1
+2                       4
+3                       0
+4                       0
+...                   ...
+1026                    4
+1027                    4
+1028                    3
+1029                    4
+1030                    0
+
+[1031 rows x 1 columns]) instead.
+2026-03-15 14:12:36,817-INFO-Bagging process has started
+2026-03-15 14:12:36,826-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 14:12:36,826-INFO-Starting Grid Search for RF
+2026-03-15 14:12:44,124-INFO-Grid Search complete. Best params: {'model__max_depth': None, 'model__min_samples_split': 2, 'model__n_estimators': 200}
+2026-03-15 14:12:44,173-INFO-RF was saved at C:\animation_technique_classification\Models\Tuning\RF.joblib
+2026-03-15 14:12:44,193-INFO-Prediction is done for RF
+2026-03-15 14:12:44,208-INFO-Metrics for RF is saved at C:\animation_technique_classification\Metrics\Tuning_metrics
+2026-03-15 14:16:35,796-INFO-Bagging process has started
+2026-03-15 14:16:35,804-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 14:16:35,804-INFO-Starting Grid Search for RF
+2026-03-15 14:51:06,981-INFO-Grid Search complete. Best params: {'model__bootstrap': False, 'model__class_weight': None, 'model__max_depth': 15, 'model__min_samples_leaf': 1, 'model__min_samples_split': 5, 'model__n_estimators': 100}
+2026-03-15 14:51:07,010-INFO-RF was saved at C:\animation_technique_classification\Models\Tuning\RF.joblib
+2026-03-15 14:51:07,024-INFO-Prediction is done for RF
+2026-03-15 14:51:07,039-INFO-Metrics for RF is saved at C:\animation_technique_classification\Metrics\Tuning_metrics

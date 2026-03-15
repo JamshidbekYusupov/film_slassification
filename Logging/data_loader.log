@@ -1,0 +1,24 @@
+2026-03-10 17:46:38,289-INFO-Data Loading has started
+2026-03-10 17:46:58,798-INFO-Data Loading has started
+2026-03-10 17:48:19,883-INFO-Data Loading has started
+2026-03-10 17:48:19,899-ERROR-Error while concating the dataset of 2011. Error: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2026-03-10 17:49:05,086-INFO-Data Loading has started
+2026-03-10 17:49:05,088-ERROR-Error while concating the dataset of 2011. Error: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2026-03-10 17:51:28,489-INFO-Data Loading has started
+2026-03-10 17:51:34,966-INFO-Data Loading has started
+2026-03-10 17:51:34,984-INFO-Data for the year 2011 is concated
+2026-03-10 17:51:34,998-INFO-Data for the year 2012 is concated
+2026-03-10 17:51:35,012-INFO-Data for the year 2013 is concated
+2026-03-10 17:51:35,026-INFO-Data for the year 2014 is concated
+2026-03-10 17:51:35,041-INFO-Data for the year 2015 is concated
+2026-03-10 17:51:35,053-INFO-Data for the year 2016 is concated
+2026-03-10 17:51:35,066-INFO-Data for the year 2017 is concated
+2026-03-10 17:51:35,079-INFO-Data for the year 2018 is concated
+2026-03-10 17:51:35,091-INFO-Data for the year 2019 is concated
+2026-03-10 17:51:35,103-INFO-Data for the year 2020 is concated
+2026-03-10 17:51:35,115-INFO-Data for the year 2021 is concated
+2026-03-10 17:51:35,129-INFO-Data for the year 2022 is concated
+2026-03-10 17:51:35,143-INFO-Data for the year 2023 is concated
+2026-03-10 17:51:35,158-INFO-Data for the year 2024 is concated
+2026-03-10 17:51:35,172-INFO-Data for the year 2025 is concated
+2026-03-10 17:51:35,184-INFO-Data is saved at C:\animation_technique_classification\Data\Raw_Data

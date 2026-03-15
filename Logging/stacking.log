@@ -1,0 +1,7 @@
+2026-03-15 13:31:03,861-INFO-Stacking process has started
+2026-03-15 13:31:35,787-INFO-Stacking process has started
+2026-03-15 13:31:35,795-INFO-Numeric and Categorical Pipelines are done 
+2026-03-15 13:31:36,405-INFO-Voting is trained successfully
+2026-03-15 13:31:36,434-INFO-Voting was saved at C:\animation_technique_classification\Models\Stacking\Voting.joblib
+2026-03-15 13:31:36,463-INFO-Prediction is done for Voting
+2026-03-15 13:31:36,479-INFO-Metrics for Voting is saved at C:\animation_technique_classification\Metrics\Stacking_Metrics
